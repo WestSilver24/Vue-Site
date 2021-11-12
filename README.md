@@ -1,4 +1,4 @@
-조서은의 React Site 바로가기! 💨 https://chosvue.web.app/
+조서은의 Vue Site 바로가기! 💨 https://chosvue.web.app/
 <br>
 
 # vue2003
